@@ -1,4 +1,4 @@
-# Analizando datos con modelos estadísticos, matemáticos y de ML usando Python y R
+# DESCONTINUADO Analizando datos con modelos estadísticos, matemáticos y de ML usando Python y R
 
 > **Objetivo**
 Recopilación de ejemplos de Estadística, análisis de datos y ML aplicados con librerias de Python y R
